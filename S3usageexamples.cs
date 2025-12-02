@@ -1,7 +1,7 @@
 using Amazon;
 using Amazon.S3;
 using Microsoft.Extensions.DependencyInjection;
-using YourNamespace.Services;
+using S3.Services;
 
 // ============================================================
 // NUGET PACKAGES REQUIRED:
